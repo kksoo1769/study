@@ -1,9 +1,9 @@
-code/deep_learning/keras_text_processing_and_embedding/data
-code/deep_learning/keras_text_processing_and_embedding/glove.6B.zip
 code/natural_language_processing/lecture_note/ted_en-20160408.xml
 code/natural_language_processing/practice/ted_en-20160408.xml
 code/natural_language_processing/practice/vectors.txt
-code/deep_learning/keras_CNN/data
-code/deep_learning/keras_text_processing_and_embedding/pre_trained_glove_model.h5
-code/deep_learning/keras_text_processing_and_embedding/word2vec.model
-code/deep_learning/pytorch_basics/data
+code/deep_learning/07.keras_text_processing_and_embedding/data
+code/deep_learning/07.keras_text_processing_and_embedding/glove.6B.zip
+code/deep_learning/06.keras_CNN/data
+code/deep_learning/07.keras_text_processing_and_embedding/pre_trained_glove_model.h5
+code/deep_learning/07.keras_text_processing_and_embedding/word2vec.model
+code/deep_learning/09.pytorch_basics/data
